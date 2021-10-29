@@ -1,2 +1,2 @@
 # Git and GitHub course
-Crash course for Git
+console.log ("test2")
